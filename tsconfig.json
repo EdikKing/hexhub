@@ -1,0 +1,15 @@
+{
+  // https://v3.nuxtjs.org/concepts/typescript
+  "baseUrl": ".",
+  "paths": {
+    "@/*": ["./*"]
+  },
+  "extends": "./.nuxt/tsconfig.json",
+  "exclude": ["node_modules"],
+  "include": ["**/*.ts", "**/*.d.ts", "**/*.tsx", "**/*.vue"],
+  "compilerOptions": {
+    "removeComments": true,
+    "strict": false,
+    "alwaysStrict": false,
+  }
+}
