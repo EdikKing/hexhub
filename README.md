@@ -2,7 +2,7 @@
 
 ## 介绍
 
-Hexhub 是一款开源的SSH、SFTP、数据库管理客户端，，数据库管理模块目前还在开发之中。
+Hexhub 是一款开源的SSH、SFTP、数据库管理客户端，数据库管理模块目前还在开发之中。
 
 ## 运行截图
 <img decoding="async" src="./snapshots/img1.png" width="49%"><img decoding="async" src="./snapshots/img2.png" width="49%">
